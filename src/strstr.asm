@@ -1,10 +1,3 @@
-;
-; EPITECH PROJECT, 2019
-; ASM_minilibc_bootstrap_2019
-; File description:
-; my_strstr.asm
-;
-
 bits 64
 
 section .text
